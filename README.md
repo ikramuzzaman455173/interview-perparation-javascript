@@ -14,7 +14,7 @@
   - [Closures](#closures)
   - [Callback Functions](#callback-functions)
   - [Promise and Async/Await](#promise-and-asyncawait)
-    - [Go to top:arrow\_up: ](#go-to-toparrow_up-)
+ 
 - [Advanced Interview Topics](#advanced-interview-topics)
   - [Scope Chain](#scope-chain)
   - [Prototypal Inheritance](#prototypal-inheritance)
@@ -24,10 +24,6 @@
   - [Throttling and Debouncing](#throttling-and-debouncing)
   - [Web Security](#web-security)
   - [Memory Management and Garbage Collection](#memory-management-and-garbage-collection)
-  - [Design Patterns](#design-patterns)
-    - [Go to top:arrow\_up: ](#go-to-toparrow_up--1)
-
-
 
 
 ## Basic Interview Topics
