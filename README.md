@@ -8,15 +8,13 @@
 
 > Click on any topic to go there
 
+- [Table of Contents Best Doc For Javascript Interview Preparation 🙋‍♂️](#table-of-contents-best-doc-for-javascript-interview-preparation-️)
 - [Basic Interview Topics](#basic-interview-topics)
-  - [Array.length](#array-length)
-  - [String Manipulation](#string-manipulation)
-  - [Function Declaration vs. Function Expression](#function-declaration-vs-function-expression)
   - [Hoisting](#hoisting)
   - [Closures](#closures)
   - [Callback Functions](#callback-functions)
-  - [Promise and Async/Await](#promise-and-async-await)
-
+  - [Promise and Async/Await](#promise-and-asyncawait)
+    - [Go to top:arrow\_up: ](#go-to-toparrow_up-)
 - [Advanced Interview Topics](#advanced-interview-topics)
   - [Scope Chain](#scope-chain)
   - [Prototypal Inheritance](#prototypal-inheritance)
@@ -27,24 +25,34 @@
   - [Web Security](#web-security)
   - [Memory Management and Garbage Collection](#memory-management-and-garbage-collection)
   - [Design Patterns](#design-patterns)
+    - [Go to top:arrow\_up: ](#go-to-toparrow_up--1)
 
 ## Basic Interview Topics
 
-### Array.length
-- Explanation of `Array.length` property.
-- Example usage and common scenarios.
-
-### String Manipulation
-- Working with strings: concatenation, interpolation, methods like `split`, `slice`, `substring`, `replace`, and more.
-- Template literals and string interpolation.
-
-### Function Declaration vs. Function Expression
-- Differences between function declaration and function expression.
-- How hoisting affects these declarations.
-
 ### Hoisting
-- Explanation of hoisting in JavaScript.
-- Hoisting with variables and function declarations.
+
+- **Engish**
+<details>
+<summary>Javascript Hoisting Explained English Language:)</summary>
+
+<b>Hoisting is JavaScript's default behavior of moving
+all declarations to the top of the current scope (script or function).
+Be carefull that only declaration gets hoisted NOT the initialitations</b>
+
+[!hoisting]('./img/hoisting.webp')
+
+
+```js
+sayHi() //hello
+function sayHi(){
+console.log("hello")
+}
+```
+
+
+
+</details>
+
 
 ### Closures
 - Understanding closures and their practical use cases.
@@ -101,4 +109,3 @@
 ---
 
 #### [Go to top:arrow_up: ](#top)
-
