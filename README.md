@@ -27,6 +27,9 @@
   - [Design Patterns](#design-patterns)
     - [Go to top:arrow\_up: ](#go-to-toparrow_up--1)
 
+
+
+
 ## Basic Interview Topics
 
 ### Hoisting
@@ -39,7 +42,8 @@
 all declarations to the top of the current scope (script or function).
 Be carefull that only declaration gets hoisted NOT the initialitations</b>
 
-[!hoisting]('./img/hoisting.webp')
+![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--qW1Xo54A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gxoylg0wmx5flsyxhusl.gif)
+
 
 
 ```js
