@@ -1,4 +1,4 @@
-<h1 align="center">Best Doc For Javascript Interview Preparation 🐱‍👤</h1>
+<h1 align="center">Best Doc For Javascript Interview Preparation 🐱‍👤</h1> 
 
 [//]: # (Table of Content)
 
